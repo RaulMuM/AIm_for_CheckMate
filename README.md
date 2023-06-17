@@ -1,5 +1,8 @@
-# AIm_for_CheckMate - 6th Edition of Saturdays4AI Madrid
+
+![logo2_Aim_for_CheckMate](https://github.com/RaulMuM/AIm_for_CheckMate/assets/109469745/77273ed4-f071-4ab7-b186-288ec4db94dc)
+# 6th Edition of Saturdays4AI Madrid
 ![logo_Aim_for_CheckMate](https://github.com/RaulMuM/AIm_for_CheckMate/assets/109469745/f549babc-af19-4237-85a4-1ea248449dd2)
+
 
 
   <p align="left">Project of Tactical Themes in games of chess</p>
