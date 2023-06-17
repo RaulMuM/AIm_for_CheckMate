@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <p align="left">Project of Tactical Themes in games of chess</p>
-  <img align="center" width="500" height="400" src="https://preview.redd.it/92we6q514qx61.jpg?width=5334&format=pjpg&auto=webp&v=enabled&s=e7850668255c3dd5298e2a1dc427d6bf94fc4543">
+  <img align="center" width="500" height="400" src="https://i.ytimg.com/vi/lP36_hLMHIc/maxresdefault.jpg">
 </h1>
 
 # Proyect Chess - Themes
