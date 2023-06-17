@@ -1,5 +1,6 @@
 
-![logo2_Aim_for_CheckMate](https://github.com/RaulMuM/AIm_for_CheckMate/assets/109469745/77273ed4-f071-4ab7-b186-288ec4db94dc)
+![logo2_Aim_for_CheckMate](https://github.com/RaulMuM/AIm_for_CheckMate/assets/109469745/558438c4-11de-4910-a045-3844a9ab28a2)
+
 # 6th Edition of Saturdays4AI Madrid
 ![logo_Aim_for_CheckMate](https://github.com/RaulMuM/AIm_for_CheckMate/assets/109469745/f549babc-af19-4237-85a4-1ea248449dd2)
 
