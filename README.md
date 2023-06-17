@@ -1,4 +1,4 @@
-# AIm_for_CheckMate
+# AIm_for_CheckMate - 6th Edition of Saturdays4AI Madrid
 
 <h1 align="center">
   <p align="left">Project of Tactical Themes in games of chess</p>
