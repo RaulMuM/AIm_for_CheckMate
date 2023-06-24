@@ -85,6 +85,6 @@ python model_cnn_3D.ipynb
 ## :mailbox:Contact us:
 
 - Email:
-        rodriguezppp@gmail.com 
-        sergio.rodrigo@hotmail.es 
-        bentocode0@gmail.com
+    rodriguezppp@gmail.com;
+    sergio.rodrigo@hotmail.es;
+    bentocode0@gmail.com
