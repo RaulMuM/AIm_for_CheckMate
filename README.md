@@ -61,25 +61,31 @@ conda create -n nombreEntorno
 ```
 requirements.txt
 ```
-3.From the terminal, go to the folder that contains the app files and from there run
+3.From Jupyter or Google Colab you can run these notebooks: 
 ```
-python model_cnn_3D.py
+python model_lgbm.ipynb
 
-python model_LGBMClassifier.py
+python model_cnn_base.ipynb
+
+python model_cnn_3D.ipynb
 ```
 
 # :wrench: Technologies used:
 
    - **Metodology Scrum:** Trello 
    - **Developement:** Git y GitHub, Jupyter, Visual Studio Code, LGBM, tockfish, lichess dataset
-   - **Presentación:** Canva (https://www.canva.com/design/DAFZy34-Tb8/cIZek4UlllgtuwDvqkMtcQ/edit?utm_source=shareButton&utm_medium=email&utm_campaign=designshare) 
+   - **Medium:** Harnessing_AI_to_Classify_Chess_Tactics.docx 
+   - **Presentation:** jugando-al-ajedrez-con-la-ia-clasificacion-de-tacticas-con-aprendizaje-automatico-y-redes-neuronales-2023-6-17-18-19-19_1.pdf
 
 # Autors
 
+  Raúl muñoz, Sergio Rodrigo y Pablo Bento
 
 
 ## :mailbox:Contact us:
 
 - Email: rodriguezppp@gmail.com ;
+
         sergio.rodrigo@hotmail.es ;
+
         bentocode0@gmail.com
